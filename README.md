@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # House Price Prediction
 
@@ -14,10 +14,6 @@ by a production-ready FastAPI service and a scikit-learn pipeline.
 [![Tests](https://img.shields.io/badge/backend_tests-3%20passed-2E7D32)](#quality-checks)
 
 </div>
-
-![House Price Prediction interface](docs/images/ui-preview.png)
-
-<p align="center"><sub>Interface concept using the project's #92C5DE visual language.</sub></p>
 
 ## Overview
 
