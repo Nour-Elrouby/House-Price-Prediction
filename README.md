@@ -30,19 +30,14 @@ A full-stack application for estimating Indian residential property prices. It c
 ```text
 House-price CSV
       |
-      v
 Cleaning and feature engineering
       |
-      v
 Train/test split and model comparison
       |
-      v
 Exported scikit-learn pipeline
       |
-      v
 FastAPI validation and inference
       |
-      v
 React property estimator
 ```
 
