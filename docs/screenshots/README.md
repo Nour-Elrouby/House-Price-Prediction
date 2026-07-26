@@ -1,8 +1,5 @@
 # Application screenshots
 
-Run the backend and frontend locally, then add:
+- `ui-home.png` - actual React property-estimator interface used in the project README
 
-- `home.png` — completed prediction form
-- `result.png` — prediction result page
-
-The main project README is ready to embed these images before publication.
+Add further real application screenshots here when needed.

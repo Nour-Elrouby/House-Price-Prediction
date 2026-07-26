@@ -15,6 +15,10 @@ by a production-ready FastAPI service and a scikit-learn pipeline.
 
 </div>
 
+## User interface
+
+![House Price Prediction user interface](docs/screenshots/ui-home.png)
+
 ## Overview
 
 This project turns a house-price experiment into a complete web product. The
