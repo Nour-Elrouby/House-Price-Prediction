@@ -43,6 +43,10 @@ React property estimator
 
 The exported pipeline contains the fitted preprocessing steps and Random Forest estimator. The API therefore applies the same transformations used during training before it returns a price estimate.
 
+## Dataset
+
+The model is trained with the [House Price dataset on Kaggle](https://www.kaggle.com/datasets/juhibhojani/house-price). Download the dataset, save it as `house_prices.csv` in the project root, and run the notebook from top to bottom to reproduce the trained model.
+
 ## Technology
 
 | Component | Purpose |
